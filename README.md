@@ -1,3 +1,5 @@
-# testrepo
+# testrepo (IBM LAB)
 
-Test the creation of a repo with IBM GITHUB course 
+## Editing the file
+
+Its a markdown file in this repository.
